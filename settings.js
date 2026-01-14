@@ -36,13 +36,13 @@
 // */
 
 const settings = {
-  packname: 'WALLYJAYTECH-MD',
-  author: '‎Wally Jay',
-  botName: "WALLYJAYTECH-MD",
-  botOwner: 'Wally Jay', 
+  packname: 'CK SHADOW-MD',
+  author: '‎CK SHADOW',
+  botName: "CK SHADOW-MD",
+  botOwner: 'CK SHADOW', 
   timezone: 'Africa/Lagos',
   prefix: '.',
-  ownerNumber: '2348144317152', //Set your number here without + symbol, just add country code & number without any space
+  ownerNumber: '2349070810971', //Set your number here without + symbol, just add country code & number without any space
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
   maxStoreMessages: 20, 
