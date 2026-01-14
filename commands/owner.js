@@ -4,21 +4,21 @@ async function ownerCommand(sock, chatId, message) {
     try {
         // HARDCODED - CANNOT BE CHANGED BY DEPLOYERS
         const ORIGINAL_CREATOR = {
-            name: "Wally Jay",
-            number: "2348144317152", 
+            name: "Ck Shadow",
+            number: "2349070810971", 
             social: {
-                youtube: "youtube.com/@wallyjaytechy",
-                github: "github.com/wallyjaytechh"
+                youtube: "https://youtube.com/@charley010?si=Pn4ECoC7vd2v2Voq",
+                github: "github.com/Ebukannalue1132"
             }
         };
 
         const vcard = `BEGIN:VCARD
 VERSION:3.0
 FN:${ORIGINAL_CREATOR.name}
-ORG:WALLYJAYTECH-MD;
+ORG:CK SHADOW-MD;
 TITLE:Original Bot Developer
 TEL;waid=${ORIGINAL_CREATOR.number}:+${ORIGINAL_CREATOR.number}
-NOTE:© 2025 WALLYJAYTECH-MD. Original creator.
+NOTE:© 2025 CK SHADOW-MD. Original creator.
 END:VCARD`;
 
         await sock.sendMessage(chatId, {
@@ -62,8 +62,8 @@ END:VCARD`;
         await sock.sendMessage(chatId, {
             text: `👑 *ORIGINAL BOT DEVELOPER* 👑
 
-*Wally Jay - WALLYJAYTECH-MD*
-*Official WhatsApp:* +2348144317152
+*Ck shadow - CK SHADOW-MD*
+*Official WhatsApp:* +2349070810971
 
 *This bot was originally created by WALLYJAYTECH-MD*
 *Contact the original developer for real support*
