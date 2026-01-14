@@ -368,11 +368,11 @@ if (connection == "open") {
 ╚═══════════════════╝
 
 *🔗 Channel:* ${global.channelLink}
-*💬 Support:* https://chat.whatsapp.com/HggBPlh2UEMEHaGwOcaVkE?mode=hqrt1
+*💬 Support:* https://whatsapp.com/channel/0029Vb7Zrwp3LdQadGiGA92v
 *📺 YouTube:* https://youtube.com/@wallyjaytechy
-*💻 GitHub:* https://github.com/wallyjaytechh
+*💻 GitHub:* https://github.com/Ebukannalue1132
 
-*🛠️ WALLYJAYTECH-MD - Professional WhatsApp Bot*`,
+*🛠️ CK SHADOW-MD - Professional WhatsApp Bot*`,
     contextInfo: {
         forwardingScore: 1,
         isForwarded: true,
